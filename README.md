@@ -1,4 +1,3 @@
-Для запуска проекта на Linux/MacOS перейдите в директорию проекта и выполните в терминале команду ./run.sh
+To launch the project on Linux/MacOS run the command ./run.sh in the terminal from the project directory.
 
-Для запуска проекта на Windows перейдите в директорию проекта, скопируйте содержимое файла "run.sh" в новый файл "run.bat",
-заменив слово "export" на "set", и запустите его
+To launch the project on Windows copy text from "run.sh" file into a new "run.bat" file replacing the word "export" with "set" and run it.
